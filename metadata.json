@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Account Connector",
+  "description": "A sleek and modern web application to simulate connecting your GitHub account, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
